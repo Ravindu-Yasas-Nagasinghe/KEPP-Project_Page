@@ -1,2 +1,2 @@
 # FVC-SA-PP
-Project page for FVC&amp;SA - CVPR24
+Project page for KEPP - CVPR24
